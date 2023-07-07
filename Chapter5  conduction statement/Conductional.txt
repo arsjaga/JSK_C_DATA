@@ -1,0 +1,55 @@
+Day 1:
+	/*P5.1 Program to print the bigger number*/
+	/*P5.5 Program to find biggest number from three given numbers*/
+	/*P5.6 Program to find whether a year is leap or not*/
+	/*P5.2 Program to print whether a number is even or odd */
+	/*P5.3 Program to print a message if negative number is entered */
+	/*P5.4 Program to find quotient and remainder*/
+	/*P5.7 Program to find out the grade of a student when the marks of 4 subjects are given. 
+		The method of assigning grade is -
+		percentage>=85 			grade=A
+		percentage<85  and percentage>=70	grade=B
+		percentage<70  and percentage>=55	grade=C
+		percentage<55  and percentage>=40	grade=D
+		percentage<40				grade=E
+		*/
+
+Day 2:
+	/*P5.32 Program to understand the switch control statement*/
+	/*P5.33 Program to understand the switch with break statement*/
+	/*P5.34 Program to perform arithmetic calculations on integers*/
+	/*P5.27 Program to understand the use of break*/
+	/*P5.31 Program to find whether a number is even or odd use of  goto*/
+	/*P5.29 Program to understand the use of continue statement*/
+	/*P5.35 Program to find whether the alphabet is a vowel or consonant*/
+	/*P5.40 Program to find out the number of notes required for a given amount of money*/
+
+
+Day 3:
+	/*P5.17 Program to print numbers from 1 to 10 using for loop*/
+	/*P5.18 Program to print numbers in reverse order with a difference of 2*/
+	/*P5.22 Program to print the sum of digits of any number using for loop */
+	/*P5.10 Program to print the sum of digits of any number*/
+	/*P5.11 Program to find the product of digits of any number*/
+	/*P5.12 Program to find the factorial of any number*/
+	/*P5.15 Program to count digits in a number */
+	/*P5.16 Program to find the sum of numbers entered*/
+	/*P5.19 Multiply two positive numbers without using * operator*/
+
+Day 4:
+	/*P5.21 Program to generate fibonacci series
+		1, 1, 2, 3, 5, 8, 13, 34, 55, 89...................
+		In this series each number is a sum of the previous two numbers*
+	/*P5.28 Program to find whether a number is prime or not*/
+	//*P5.23 Program to show the use of comma operator in for loop*/
+	/*P5.25 Program to print Armstrong numbers*/
+	/*P5.20 Find the sum of this series upto n terms 
+	  	1 + 2 + 4 + 7 + 11 + 16 + */
+	/* P5.26 Program to find the sum of digits of a number until the sum is reduced to 1 digit.
+	   	For example -  538769->38->11->2 */
+
+Day 5:
+	/*P5.8 Program to print numbers from 1 to 10 using while loop*/
+	/*P5.9 Program to print numbers in reverse order with a difference of 2*/
+	/*P5.14 Program to print numbers from 1 to 10 using a do-while loop*/
+	/*PYRAMIDS*/

@@ -1,0 +1,38 @@
+Day 1:
+
+	/*P11.1 Program to display the values of structure members*/
+	/*P11.2 Program to assign a structure variable to another structure variable*/
+	/*P11.3 Array of structures*/
+	/*P11.4 Program to understand arrays within structures*/
+	/*P11.5 Program to understand pointers to structures*/
+
+Day 2:
+
+	/*P11.15 Program for accessing union members */
+	/*P11.16 Program to compare the memory allocated for a union and structure variable*/ 
+	/*P11.17  Program that uses an array of union to hold values of different data types*/
+	/*P11.18 Program to understand the difference between #define and typedef*/ 
+
+
+Day 3:
+
+	/*P11.6 Program to understand how structure members are sent to a function */
+	/*P11.7 Program to understand how a structure variable is sent to a function*/
+	/*P11.8 Program to understand how a pointer to structure variable is sent to a function */
+	/*P11.9 Program to understand how a structure variable is returned from a function*/
+	/*P11.10 Program to understand how a pointer to structure is returned from a function*/
+
+
+Day 4:
+
+	/*P11.11 Program to understand how an array of structures is sent to a function*/
+	/*P11.12 Program to print the sorted records of students*/
+	/*P11.13 Program to sort the records on different keys*/
+
+
+Day 5:
+
+	/*P11.14 Program of linked list*/
+
+
+
